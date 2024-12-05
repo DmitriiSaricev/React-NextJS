@@ -15,3 +15,7 @@ I'm online throughout most of the day and will help you as quickly as I can! In 
 ## How can I contact you?
 
 Please open an issue in this GitHub repo or post a message in the private Discord. You can also contact me at support@bytegrad.com.
+# React-NextJs
+# React-NextJs
+# React-NextJs
+# React-NextJs
